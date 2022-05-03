@@ -1,0 +1,11 @@
+1 - Altere a senha no arquivo db.js
+
+2 - Abra a pasta e insira no terminal:
+- npm install
+
+3- Crie a Database com:
+CREATE DATABASE inf_pessoais;
+
+4- Rode a aplicação no terminal com:
+- node index.js
+
